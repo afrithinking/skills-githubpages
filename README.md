@@ -28,7 +28,33 @@ We'll work in a branch, `my-pages`, that I created for you to get this site look
 
 Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
 
-We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+Value, visibility and proximity 
+
+How value impacted influence positively 
+
+The magic of paying full attention 
+
+Compelling attractiveness 
+
+Pay attention to you 
+
+Not any kind of attention 
+
+People who try to make themselves the center of attention are annoying 
+
+First-person pronoun use and status 
+
+Diminishing yourself 
+
+Diminishers 
+
+How should I demonstrate that I am listening 
+
+The most important person on stage is the other actor 
+
+First-person pronouns – mental state 
+
+Judge vs Gator 
 
 ### :keyboard: Activity: Configure your site
 
